@@ -57,6 +57,23 @@ I prefer learning by **building things rather than just watching tutorials**.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alishancodes&theme=dark&hide_border=true)
 
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alishancodes/alishancodes/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alishancodes/alishancodes/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/alishancodes/alishancodes/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/md-alishan-hussain-b1542b360)
