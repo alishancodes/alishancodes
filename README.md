@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Alishan
 
-<!--
-**alishancodes/alishancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE student learning software development by **building projects and experimenting with code**.
 
-Here are some ideas to get you started:
+🌱 Currently learning **JavaScript, C, C++, Data Structures & Algorithms, and Full-Stack Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on **web development projects**
+
+💬 Interested in **JavaScript, HTML, CSS, Git, and GitHub**
+
+---
+
+## 🛠️ Tech Stack
+
+- C
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+Some of the projects I've built while learning:
+
+- 🎨 **Etch A Sketch** — JavaScript DOM manipulation and events
+- ✊ **Rock Paper Scissors** — JavaScript game
+- ✅ **Todo App** — HTML, CSS & JavaScript
+- 📝 **Wordle** — JavaScript-based Wordle project
+- 🍳 **Odin Recipes** — HTML/CSS fundamentals
+- 🛒 **Landing Page** — HTML & CSS
+- 🛍️ **Dynamic Shopping List** — JavaScript DOM manipulation
+
+---
+
+## 📚 Currently Learning
+
+```text
+Web Development
+      ↓
+JavaScript
+      ↓
+C++ + Data Structures & Algorithms
+      ↓
+Backend Development
+      ↓
+Python + AI/ML
+````
+
+I prefer learning by **building things rather than just watching tutorials**.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=alishancodes\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=alishancodes\&theme=dark\&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alishancodes\&theme=dark\&hide_border=true\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/md-alishan-hussain-b1542b360)
+
+---
+
+> **Learning by building. One project at a time.**
+
+```
