@@ -55,11 +55,11 @@ I prefer learning by **building things rather than just watching tutorials**.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=alishancodes\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishancodes&show_icons=true&theme=dark&hide_border=true)
 
-![](https://streak-stats.demolab.com/?user=alishancodes\&theme=dark\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alishancodes&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alishancodes\&theme=dark\&hide_border=true\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alishancodes&layout=compact&theme=dark&hide_border=true)
 
 ---
 
