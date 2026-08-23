@@ -55,20 +55,15 @@ I prefer learning by **building things rather than just watching tutorials**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishancodes&show_icons=true&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alishancodes&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alishancodes&layout=compact&theme=dark&hide_border=true)
----
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/md-alishan-hussain-b1542b360)
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demonbrzrkr@gmail.com)
+
 
 ---
 
-> **Learning by building. One project at a time.**
-
-```
+**Learning by building. One project at a time.**
