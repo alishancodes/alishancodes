@@ -24,13 +24,13 @@ I'm a B.Tech CSE student learning software development by **building projects an
 
 Some of the projects I've built while learning:
 
-- 🎨 **Etch A Sketch** — JavaScript DOM manipulation and events
-- ✊ **Rock Paper Scissors** — JavaScript game
-- ✅ **Todo App** — HTML, CSS & JavaScript
-- 📝 **Wordle** — JavaScript-based Wordle project
-- 🍳 **Odin Recipes** — HTML/CSS fundamentals
-- 🛒 **Landing Page** — HTML & CSS
-- 🛍️ **Dynamic Shopping List** — JavaScript DOM manipulation
+- 🎨 **[Etch A Sketch](https://github.com/alishancodes/sketch)** — JavaScript DOM manipulation and events
+- ✊ **[Rock Paper Scissors](https://github.com/alishancodes/rock-paper-scissors)** — JavaScript game
+- ✅ **[Todo App](https://github.com/alishancodes/todo_7b)** — HTML, CSS & JavaScript
+- 📝 **[Wordle](https://github.com/alishancodes/wordle)** — JavaScript-based Wordle project
+- 🍳 **[Odin Recipes](https://github.com/alishancodes/odin-recipes)** — HTML/CSS fundamentals
+- 🛒 **[Landing Page](https://github.com/alishancodes/landing-page)** — HTML & CSS
+- 🛍️ **[Dynamic Shopping List](https://github.com/alishancodes/shopping_list)** — JavaScript DOM Manipulation
 
 ---
 
@@ -49,6 +49,16 @@ Python + AI/ML
 ````
 
 I prefer learning by **building things rather than just watching tutorials**.
+
+---
+
+## 🎯 Goals
+
+- Build strong CS fundamentals
+- Become a strong full-stack developer
+- Master DSA and problem solving
+- Explore AI/ML, embedded systems, and research
+- Keep learning by building
 
 ---
 
