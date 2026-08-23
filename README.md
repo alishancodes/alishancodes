@@ -6,8 +6,7 @@ I'm a B.Tech CSE student learning software development by **building projects an
 
 🔭 Currently working on **web development projects**
 
-💬 Interested in **JavaScript, HTML, CSS, Git, and GitHub**
-
+💬 Interested in **building software, exploring new technologies, solving problems, and understanding how things work under the hood**
 ---
 
 ## 🛠️ Tech Stack
@@ -54,6 +53,10 @@ I prefer learning by **building things rather than just watching tutorials**.
 ---
 
 ## 📊 GitHub Stats
+
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alishancodes&theme=dark&hide_border=true)
 
