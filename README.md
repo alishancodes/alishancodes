@@ -26,7 +26,6 @@ Some of the projects I've built while learning:
 
 - 🎨 **[Etch A Sketch](https://github.com/alishancodes/sketch)** — JavaScript DOM manipulation and events
 - ✊ **[Rock Paper Scissors](https://github.com/alishancodes/rock-paper-scissors)** — JavaScript game
-- ✅ **[Todo App](https://github.com/alishancodes/todo_7b)** — HTML, CSS & JavaScript
 - 📝 **[Wordle](https://github.com/alishancodes/wordle)** — JavaScript-based Wordle project
 - 🍳 **[Odin Recipes](https://github.com/alishancodes/odin-recipes)** — HTML/CSS fundamentals
 - 🛒 **[Landing Page](https://github.com/alishancodes/landing-page)** — HTML & CSS
